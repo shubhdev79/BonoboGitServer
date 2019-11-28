@@ -9,9 +9,9 @@ Bonobo Git Server: Open Source // For Windows // Running on IIS // Graphical Con
 * localhost:-->> PublicIP
 
 # Prerequisites:
-* 1) Install GIT
-* 2) Install Sublime - Text Editor
-* 3) Install IIS
+* 1> Install GIT
+* 2> Install Sublime - Text Editor
+* 3> Install IIS
 
 # Process:
 * On Server.
